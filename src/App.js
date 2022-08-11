@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Commerce from '@chec/commerce.js';
 
 function App() {
   return (
